@@ -1,10 +1,10 @@
 # Comprehensive Business Requirements Document (BRD) & System Architecture
-
+ 
 ## 1. Project Overview
 **Name:** AI Interviewer & Skill Assessment Platform (Video + Voice)
 **Objective:** To build an end-to-end automated recruitment platform that handles candidate onboarding, resume parsing, JD matching, scheduling, and conducts fully autonomous, multi-round AI-driven video and voice interviews. The platform will also generate comprehensive skill assessments and conduct salary negotiations.
 **Role:** Chief Architect & Senior Developer
-
+ 
 ---
 
 ## 2. Detailed System Behavior & Workflows

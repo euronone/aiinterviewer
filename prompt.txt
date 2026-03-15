@@ -3,3 +3,5 @@ AI Interviewer & Skill Assessment Platform (Video + Voice) so basically I'm tryi
 - technical
 - core skills
 everything. Even my system should go and do a salary negotiation. So now, to build this entire end-to-end system, I will be using Python as a backend, and I will be using Next and Tailwind and TypeScript as a frontend. Database-wise, I am going to use our superbase over here. AI, so I'll be using LLMs from OpenAi. For a real time, like a speech-to-speech API for a conversation and yeah, so infra-wise I will be using AWS. You have to implement even a caching system. You have to even implement a server over there. And you have to follow our best practices. So you have to basically behave like an architect and a senior dev. Now, do one thing: first of all, try to create a complete project skeleton or BRD for me in a very, very detailed and in-depth manner. And even save the prompt, so whatever prompt which I am going to give you
+
+sudh
